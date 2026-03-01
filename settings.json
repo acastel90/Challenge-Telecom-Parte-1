@@ -1,0 +1,7 @@
+{
+    "conventionalCommits.scopes": [
+        "Extracción",
+        "Transformación",
+        "Carga y análisis"
+    ]
+}
